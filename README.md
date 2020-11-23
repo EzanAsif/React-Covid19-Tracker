@@ -1,5 +1,5 @@
-# BOOTCAMP 2020 Project-01
-## Expense Tracker App
+# BOOTCAMP 2020 Project-02
+## Covid-19 Tracker App
 
 Site link
 
